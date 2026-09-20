@@ -1,27 +1,16 @@
-# MIR-CHAR-AURELIAN-001 — Aurelian Helios
+# PROMPT-CHAR-001 — Aurelian Helios
 
-## Prompt ID
-`PROMPT-MIR-CHAR-AURELIAN-001-V001`
+**Asset-ID:** `ASSET-CHAR-001`  
+**Canon status:** OFFICIAL CANON — Phase 1 / 8 Light Watchers  
+**Reference:** `1000132559.png`  
+**Purpose:** reusable image-to-image character reconstruction prompt
 
-## Canon source
-Primary visual source: `IMAGE-ARCHITECTURE/CHARACTERS/01_LIGHT-WATCHERS/SOURCES/00_LIGHT-WATCHERS_GROUP.jpg` (group composition; individual original not separately supplied in Step 1).
+## Prompt
+
+IMAGE-TO-IMAGE CHARACTER CANON RECONSTRUCTION — MIRATHIA / AURELIAN HELIOS. Use the uploaded reference as the sole visual authority for Aurelian’s identity and design. Preserve face structure, long golden-blond hair, short beard, mature heroic proportions, expression, white-and-gold royal armor, deep royal-blue cape and fabric, blue/aquamarine star crystals, sunburst motifs, crystal-topped golden staff, lion motifs and the adjacent lion companion. Preserve the luminous Mirathia high-fantasy cityscape with waterfalls, bridges, white stone architecture and warm celestial daylight. Refine into CMSF (Cinematic Mythic Storybook Fantasy): expressive lightly stylized character forms, epic high-detail digital painting, cinematic volumetric light, elegant magic, atmospheric depth, luxurious fantasy-book illustration finish. Keep the canonical costume geometry and color hierarchy locked; do not redesign the character. Vertical collector character plate, ultra-detailed, 4K visual target, 300 DPI print intent.
+
+### Negative Prompt
+redesign, altered face, altered hair color, altered armor silhouette, modern clothing, sci-fi armor, weapon substitution, extra limbs, duplicate character, distorted hands, deformed anatomy, muddy details, flat lighting, photorealistic skin-only treatment, anime-only rendering, text artifacts, watermark
 
 ## Visual DNA
-- Central heroic male figure in the Light-Watchers group composition.
-- Long light/blond hair; warm, luminous facial presentation.
-- White/ivory ceremonial armor and layered mantle with strong gold ornamentation.
-- Radiant sun-gold insignia and crystalline light motifs.
-- Staff/scepter-like luminous weapon held vertically.
-- Large heraldic golden lion positioned prominently beside him.
-- Dominant palette: gold, ivory, white, warm solar amber; controlled blue environmental accents.
-- Expression: calm, resolute, benevolent authority.
-- Silhouette: broad, regal, vertically elongated, ceremonial rather than militaristic.
-
-## Master image prompt
-Reconstruct Aurelian Helios strictly from the supplied Mirathia canon reference. Preserve the established facial identity, long light hair, regal heroic proportions, white/ivory ceremonial armor, layered mantle, gold filigree, radiant solar insignia, luminous staff, and the prominent golden king-lion companion visible in the reference. Use CMSF — Cinematic Mythic Storybook Fantasy: expressive lightly stylized fantasy character design combined with highly detailed cinematic digital painting, volumetric light, mythic storybook atmosphere, deep environmental separation, elegant magic and premium fantasy-book illustration finish. Gold and diamond-white are the primary visual DNA. Solar radiance should read as controlled, noble and coherent rather than explosive. Preserve the exact character identity; do not redesign anatomy, costume language, heraldry or color hierarchy.
-
-## Negative prompt
-Do not redesign the character, do not change face or hair identity, no modern clothing, no sci-fi armor, no random weapons, no extra limbs, no altered heraldry, no excessive fire, no neon palette, no cartoon simplification, no photorealistic human replacement, no unrelated fantasy tropes, no text overlays, no logos, no watermark.
-
-## Status
-`CANON_REFERENCE_READY` — individual original image still pending; current source is the official supplied group reference.
+Männlicher erwachsener Sonnen-/Lichtwächter; langes, goldblondes Haar; markantes, bärtiges Gesicht; königliche, aufrechte Haltung; weiß-goldene Hochfantasy-Rüstung mit tiefblauen Stoff- und Umhangflächen; zahlreiche stern- und sonnenförmige aquamarinblaue Kristalle; königlicher Stab mit großem blauem Kristall und goldener Sonnenfassung; Löwe als enges Begleittier/Emblem; Mirathia als helles, goldenes Wasserfall- und Brückenreich im Hintergrund; warmes, strahlendes Sonnenlicht.
