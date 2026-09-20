@@ -1,7 +1,8 @@
-# PROMPT-CHAR-007 — Altair Frostspitz
+# PROMPT-CHAR-008 — Altair Frostspitz
 
-**Asset-ID:** `ASSET-CHAR-007`  
+**Asset-ID:** `ASSET-CHAR-008`  
 **Canon status:** OFFICIAL CANON — Phase 1 / 8 Light Watchers  
+**Position:** 08  
 **Reference:** `1000132565.png`  
 **Purpose:** reusable image-to-image character reconstruction prompt
 
