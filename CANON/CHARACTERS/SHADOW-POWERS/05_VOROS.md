@@ -1,13 +1,13 @@
 # OFFICIAL CANON — Voros, der Herr des Zerfalls
 
 - **Phase:** 1 — Originalgrafik → CANON → Asset-ID → Visual DNA → Prompt-ID
-- **Position:** 05
-- **Faction:** Schattenmächte
+- **Position:** 16
+- **Faction:** Schattenkrieger
 - **Role:** Der Herr des Zerfalls
-- **Asset-ID:** `ASSET-CHAR-005`
-- **Prompt-ID:** `PROMPT-CHAR-005`
+- **Asset-ID:** `ASSET-CHAR-016`
+- **Prompt-ID:** `PROMPT-CHAR-016`
 - **Original source:** `1000132588.png`
-- **Canonical original target:** `CHARACTERS/SHADOW-POWERS/ORIGINALS/05_VOROS.png`
+- **Canonical original target:** `CHARACTERS/SHADOW-POWERS/ORIGINALS/16_VOROS.png`
 - **Dimensions:** 1024 × 1536 px
 - **SHA-256:** `40e6403992902a6a1c3b75dcbeffdf908134376999fb5323a0838e5b894d15bd`
 - **Weapon canon:** Zerfallsklinge; Verfallschild; Aschenbogen; Entropiespeer; Rissdolch
