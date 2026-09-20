@@ -1,67 +1,173 @@
-# MIRATHIA — MASTER 5-WEAPONS SYSTEM
+# MIRATHIA — MASTER 80 WEAPONS CANON
 
-Source: Notion `⚔️ Waffenübersicht — Die 16 Charaktere`, current production state.
+## Source authority
+The complete 80-weapon production dataset is derived directly from the three supplied weapon dossier PDFs:
+
+- `Helden Waffen Dossier.pdf` — 18 pages = 3 characters × 5 weapons + 3 overview pages.
+- `Licht Wächter Waffen Dossier.pdf` — 48 pages = 8 characters × 5 weapons + 8 overview pages.
+- `Schatten Waffen Dossier.pdf` — 30 pages = 5 characters × 5 weapons + 5 overview pages.
+
+**Total: 16 characters × 5 weapon slots = 80 weapon records.**
+
+The dossier pages are the authoritative source for the names below. Older Notion/Airtable working sets must not overwrite these names without an explicit canon decision.
 
 ## Fixed slot schema
-Every character has exactly five production slots:
 1. Primärwaffe
 2. Sekundärwaffe
 3. Tertiärwaffe
 4. Spezialwaffe
 5. Nahkampfwaffe
 
-## Important source rule
-The five positions are the current Notion production standard. For several characters, original lore does not establish one immutable personal weapon. Therefore each entry keeps its source status. The 5-slot structure must not be mistaken for historical hard canon.
+---
 
-## Group 1 — Licht-Wächter
+# I. HELDEN — 15 WAFFEN
 
-| Charakter | Primärwaffe | Sekundärwaffe | Tertiärwaffe | Spezialwaffe | Nahkampfwaffe | Quellenstatus |
-|---|---|---|---|---|---|---|
-| Aurelian Helios | Sonnenklinge des Gleichgewichts | Helios-Schild | Lichtlanze | Krone der Solaren Wacht | Goldener Hüterdolch | Produktionsset; ursprünglicher Kanon nennt eine Lichtklinge als festen Kern |
-| Sylva Moosherz | Herzblatt-Stab | Moosherz-Bogen | Wurzelklinge | Lebensweber-Stab | Dornenmesser | Arbeitsset; klassische Einzelwaffe im Master-Canon nicht fest fixiert |
-| Argentos Silberblick | Silberbogen des Lebensmuts | Mondsichel-Klinge | Silberstab | Weitenlanze | Silberdolch | Arbeitsset; Mond-Silber-Sichel aus der Quellchronik belegt |
-| Pyrak Brennstein | Glutbrecher-Hammer | Brennstein-Axt | Feuerlanze | Ewige Glutklinge | Schmiedeklinge | Arbeitsset; Hammer/Feuerschwert/Lava-Dolch in Waffenstudien |
-| Mira Glimmerstorm | Glimmerstab | Kristallbogen | Glimmerklinge | Schleierweber-Fokus | Kristalldolch | Arbeitsset; Lichtstab/Kristallbogen/Glimmerklingen visual belegt |
-| Theron Tiefenquell | Tiefenquell-Dreizack | Strömungsschild | Wasserlanze | Gezeitenrufer | Quellklinge | Dreizack als zentrale Waffenstudie/visueller Arbeitskanon |
-| Altair Frostspitz | Frostspitzen-Langschwert | Kristallbogen | Eisspeer | Frostklinge | Eisdolch | Arbeitsset; Doppel-Eisklingen/Eisspeer visuell belegt |
-| Vespera Nebelschleier | Nebelschleier-Stab | Traumfaden-Bogen | Schleierklinge | Traumweber-Fokus | Nebeldolch | Arbeitsset; Stab als primäre visuelle Arbeitsvariante |
+## Linus — Mirathia
+1. Sternkristall-Klinge
+2. Hüterschild
+3. Himmelsbogen
+4. Willenslanze
+5. Pfadfinder-Dolch
 
-## Group 2 — Helden
+## Sunny — Mirathia
+1. Sonnenfunken-Klinge
+2. Herzlicht-Schild
+3. Lichtfaden-Bogen
+4. Hoffnungstab
+5. Morgenstern-Dolch
 
-| Charakter | Primärwaffe | Sekundärwaffe | Tertiärwaffe | Spezialwaffe | Nahkampfwaffe | Quellenstatus |
-|---|---|---|---|---|---|---|
-| Linus | Sternkristall-Klinge | Wachtbogen | Lichtstab | Sternenbrecher | Reisemesser | Entwicklungs-/Szenenvarianten; Lichtschwert und Lichtbogen in Studien |
-| Sunny | Sonnenfunken-Stab | Topas-Bogen | Lichtfächer | Herzenslicht-Fokus | Sonnenklinge | Varianten aus Sonnenstab/Lichtbogen/Fokusstudien |
-| Firo | Opallumen-Stab | Lichtbogen | Opalklinge | Resonanzfokus | Kristalldolch | Sonderfall: Original-Kanon sagt ausdrücklich „keine Waffen“; 5 Slots sind defensive, nichtzerstörerische Systemabstraktionen |
+## Firo — Mirathia
+1. Lichtkompass
+2. Resonanzkristall
+3. Sternenfeder
+4. Wissensring
+5. Friedenstab
 
-## Group 3 — Schattenkrieger
+**Firo-Sonderregel:** Diese fünf Einträge sind Resonanz-Instrumente, nicht klassische Waffen. Sie verletzen nicht; das Gewaltfreiheitsprinzip bleibt erhalten.
 
-| Charakter | Primärwaffe | Sekundärwaffe | Tertiärwaffe | Spezialwaffe | Nahkampfwaffe | Quellenstatus |
-|---|---|---|---|---|---|---|
-| Malakor, der Schattenlord | Schattenklinge Malakors | Leerenstab | Nachtlanze | Leerenbrecher | Schattenfang-Dolch | Arbeitsset; Schattenstab als zentrale visuelle Arbeitsform |
-| Irdra, die Flüsterin | Flüsterklinge | Schleierdolch | Schattenbogen | Zweifelspiegel | Flüsterdolch | Systemset; konkrete klassische Waffe im Ursprungscanon nicht fixiert |
-| Morwen, die Verstummerin | Stilleklinge | Verstummerstab | Nebelsichel | Schweigefeld-Fokus | Dunkeldolch | Runenstab als konkrete Werkzeug-/Waffenform belegt |
-| Grothak, der Gierschlund | Gierschlund-Hammer | Plündereraxt | Kettenkeule | Besitzbrecher | Raubklinge | Arbeitsset; Kriegsbeil/Schlachthammer/Dämonenschwert in Waffenstudie |
-| Voros, der Herr des Zerfalls | Zerfallssense | Verfallsspeer | Rostklinge | Entropiefokus | Zerfallsdolch | Arbeitsset; dunkler Kristallstab als zentrale Waffenform belegt |
+---
 
-## Documented original weapon studies
-- Aurelian: Lichtklinge.
-- Sylva: Licht-/Lebensschwert und Naturklingen.
-- Argentos: Mond-Silber-Sichel.
-- Pyrak: Hammer, Feuerschwert, Lava-Dolch.
-- Mira: Lichtstab, Kristallbogen, Glimmerklingen.
-- Theron: Dreizack.
-- Altair: Doppel-Eisklingen, Eisspeer, kristalline Eisformen.
-- Vespera: Sternenstab, Sternenklingen, Traum-/Magieformen.
-- Linus: Lichtschwert, Lichtbogen und weitere Lichtwaffen.
-- Sunny: Sonnenstab, Lichtbogen und Fokusformen.
-- Firo: ursprünglicher Kanon = keine Waffen; Gewaltfreiheit bleibt maßgeblich.
-- Malakor: Schattenstab.
-- Irdra: Waffen-/Werkzeugstudie; konkrete klassische Waffe nicht fest canonisiert.
-- Morwen: gewundener Runenstab mit leuchtender Energiequelle.
-- Grothak: Kriegsbeil, Schlachthammer, Dämonenschwert.
-- Voros: dunkler Stab mit blauem Kristall sowie Sichel-/Zerfalls-Symbolik.
+# II. LICHTWÄCHTER — 40 WAFFEN
 
-## Production status
-`STRUCTURE_LOCKED` — all 16 characters mapped to 5 production slots.
-`CANON_AUDIT_REQUIRED` — slot contents must retain their source-status labels.
+## Aurelian Helios — Mirathia
+1. Sonnenklinge des Gleichgewichts
+2. Helios-Aegis
+3. Strahlenlanze
+4. Diadem der Morgenwacht
+5. Hüterklinge
+
+## Sylva Moosherz — Sylvandor
+1. Wurzelklinge
+2. Moosherz-Schild
+3. Dornenbogen
+4. Herzblatt-Stab
+5. Rankendolch
+
+## Argentos Silberblick — Lunafall
+1. Mondbogen des Lebensmuts
+2. Sichel der Goldenen Weite
+3. Silberlicht-Stab
+4. Saatlanze der Erneuerung
+5. Mondsilber-Dolch
+
+## Pyrak Brennstein — Pyrakh
+1. Brennstein-Hammer
+2. Glutschild
+3. Magmabogen
+4. Herzschmiede
+5. Obsidian-Faustklinge
+
+## Mira Glimmerstorm — Glimmerfurt
+1. Glimmerklinge
+2. Spiegelbuckler
+3. Kristallbogen
+4. Schleierfächer
+5. Illusionsdolch
+
+## Theron Tiefenquell — Aquarelis
+1. Tiefenstrom-Klinge
+2. Quellenschild
+3. Gezeitenbogen
+4. Triton-Lanze
+5. Korallendolch
+
+## Altair Frostspitz — Aethyrspitz
+1. Frostspitzen-Klinge
+2. Kristall-Aegis
+3. Eiswindbogen
+4. Aetherlanze
+5. Frostsplitter
+
+## Vespera Nebelschleier — Vesperia
+1. Traumklinge
+2. Nebelschild
+3. Sternenbogen
+4. Schleierstab
+5. Mondschatten-Dolch
+
+---
+
+# III. SCHATTENMÄCHTE — 25 WAFFEN
+
+## Malakor, der Schattenlord
+1. Leerenklinge
+2. Nacht-Aegis
+3. Umbra-Bogen
+4. Krone der Leere
+5. Schattenfang
+
+## Irdra, die Flüsterin
+1. Flüsterklinge
+2. Spiegelmantel
+3. Nebelbogen
+4. Gedankenschleier
+5. Zweifeldolch
+
+## Morwen, die Verstummerin
+1. Stilleklinge
+2. Trauerschleier
+3. Nebelbogen
+4. Maske der Verstummung
+5. Dämmerdolch
+
+## Grothak, der Gierschlund
+1. Gierspalter
+2. Goldfresser-Schild
+3. Glutwerfer
+4. Schatzbrecher
+5. Besitzklinge
+
+## Voros, der Herr des Zerfalls
+1. Zerfallsklinge
+2. Verfallschild
+3. Aschenbogen
+4. Entropiespeer
+5. Rissdolch
+
+---
+
+# SOURCE PAGE MAP
+
+| Character | Source PDF | Pages |
+|---|---|---:|
+| Linus | Helden Waffen Dossier | 1–6 |
+| Sunny | Helden Waffen Dossier | 7–12 |
+| Firo | Helden Waffen Dossier | 13–18 |
+| Aurelian Helios | Licht Wächter Waffen Dossier | 1–6 |
+| Sylva Moosherz | Licht Wächter Waffen Dossier | 7–12 |
+| Argentos Silberblick | Licht Wächter Waffen Dossier | 13–18 |
+| Pyrak Brennstein | Licht Wächter Waffen Dossier | 19–24 |
+| Mira Glimmerstorm | Licht Wächter Waffen Dossier | 25–30 |
+| Theron Tiefenquell | Licht Wächter Waffen Dossier | 31–36 |
+| Altair Frostspitz | Licht Wächter Waffen Dossier | 37–42 |
+| Vespera Nebelschleier | Licht Wächter Waffen Dossier | 43–48 |
+| Malakor, der Schattenlord | Schatten Waffen Dossier | 1–6 |
+| Irdra, die Flüsterin | Schatten Waffen Dossier | 7–12 |
+| Morwen, die Verstummerin | Schatten Waffen Dossier | 13–18 |
+| Grothak, der Gierschlund | Schatten Waffen Dossier | 19–24 |
+| Voros, der Herr des Zerfalls | Schatten Waffen Dossier | 25–30 |
+
+## Canon status
+`CANON_LOCKED_FROM_PDF_DOSSIERS`
+
+This file supersedes the former working-set weapon names where the dossier PDFs differ. The PDFs remain the primary evidence source for the 80 weapon records.
