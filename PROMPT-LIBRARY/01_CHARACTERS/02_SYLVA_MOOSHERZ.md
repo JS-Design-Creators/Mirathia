@@ -1,25 +1,16 @@
-# MIR-CHAR-SYLVA-001 — Sylva Moosherz
+# PROMPT-CHAR-002 — Sylva Moosherz
 
-## Prompt ID
-`PROMPT-MIR-CHAR-SYLVA-001-V001`
+**Asset-ID:** `ASSET-CHAR-002`  
+**Canon status:** OFFICIAL CANON — Phase 1 / 8 Light Watchers  
+**Reference:** `1000132560.png`  
+**Purpose:** reusable image-to-image character reconstruction prompt
 
-## Canon source
-`IMAGE-ARCHITECTURE/CHARACTERS/01_LIGHT-WATCHERS/SOURCES/02_SYLVA_MOOSHERZ_ORIGINAL.jpg`
+## Prompt
+
+IMAGE-TO-IMAGE CHARACTER CANON RECONSTRUCTION — MIRATHIA / SYLVA MOOSHERZ. Treat the uploaded reference as the definitive visual source. Preserve Sylva’s warm youthful-adult face, large expressive green eyes, long wavy brown hair with leaf and white-flower adornments, green-gold leafwoven gown, organic armor details, glowing green crystals, carved wooden staff with a large emerald-green core, luminous butterflies and the surrounding woodland creatures. Preserve the enchanted forest architecture, waterfalls, moss, flowers and living-tree structures. Render in CMSF with expressive lightly stylized character design against a richly detailed cinematic fantasy environment, volumetric forest light, luminous green magic, layered atmospheric depth and premium storybook finish. Do not redesign the canonical silhouette, palette or props. Vertical collector character plate, ultra-detailed, 4K visual target, 300 DPI print intent.
+
+### Negative Prompt
+redesign, changed hair color, changed eye color, modern clothing, metal sci-fi staff, missing flowers/leaves, hostile animals, extra limbs, duplicate body parts, deformed hands, flat background, oversaturated neon, text artifacts, watermark
 
 ## Visual DNA
-- Young female fantasy guardian with long dark-brown hair and soft, natural facial features.
-- Forest-green layered dress/ceremonial gown with botanical ornamentation.
-- Living-forest visual language: leaves, branches, vines and floral details integrated into costume and environment.
-- Emerald/green dominant palette with warm natural highlights and pale woodland light.
-- Gentle, empathetic expression; poised and serene posture.
-- Background architecture blends a lush ancient forest with a luminous pale-gold/white city or sanctuary.
-- Overall silhouette: elegant, organic, flowing and non-militaristic.
-
-## Master image prompt
-Reconstruct Sylva Moosherz exactly from the supplied canon image. Preserve her face, long dark-brown hair, serene expression, flowing forest-green ceremonial dress, botanical ornamentation, leaf and vine motifs, organic silhouette and woodland sanctuary atmosphere. CMSF — Cinematic Mythic Storybook Fantasy; expressive lightly stylized fantasy character with an ultra-detailed cinematic digital-painting environment, volumetric woodland light, atmospheric depth, refined storybook magic and premium fantasy encyclopedia finish. Emerald green is the dominant identity color. Natural materials, living wood and botanical details must remain coherent and elegant. Preserve the established character identity and costume structure; only increase cinematic clarity, material fidelity, depth and controlled magical luminosity.
-
-## Negative prompt
-No redesign, no modern fashion, no armor replacement, no cyberpunk, no neon green, no random weapons, no extra limbs, no altered face, no excessive flowers, no cartoon simplification, no unrelated fantasy motifs, no text, no logo, no watermark.
-
-## Status
-`CANON_READY`
+Weibliche erwachsene Natur-/Lichtwächterin; warmes, freundliches Gesicht; große grüne Augen; langes welliges braunes Haar mit Blättern und weißen Blüten; grün-goldenes naturverbundenes Gewand aus Blättern, Stoff und organischen Ornamenten; leuchtende grüne Kristalle; kunstvoller Holzstab mit großem grünen Kristall; grüne Schmetterlings-/Lichtmagie; Reh, Kaninchen und Eichhörnchen als friedliche Waldtiere; üppiger Wald mit Wasserfällen, Brücken und Baumarchitektur.
