@@ -1,4 +1,12 @@
-# IMAGE-TO-IMAGE — MIRATHIA / VOROS, DER HERR DES ZERFALLS
+# PROMPT-CHAR-016 — Voros, der Herr des Zerfalls
+
+**Asset-ID:** `ASSET-CHAR-016`  
+**Position:** 16  
+**Canon status:** OFFICIAL CANON — Phase 1 / 16 Characters  
+**Reference:** `1000132588.png`  
+**Purpose:** reusable image-to-image character reconstruction prompt
+
+## Prompt
 
 Use the uploaded original artwork as the visual authority and reconstruct the character without changing identity.
 
