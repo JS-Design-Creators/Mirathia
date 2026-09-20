@@ -1,12 +1,11 @@
-# MIRATHIA — INITIAL CONFLICT REGISTER
+# MIRATHIA — CONFLICT REGISTER / CANON DECISIONS
 
-## C-001 — Artefact nomenclature
+Last canon decision update: 2026-09-20
 
-**Type:** Canon naming conflict  
-**Sources:** Current Notion master vs current Airtable structured register  
-**Status:** OPEN / CANON DECISION REQUIRED
+## C-001 — Biom-Artefakte
+**STATUS: RESOLVED / CANON LOCKED**
 
-Airtable currently defines the eight Biom-Artefacts as:
+The eight Biom-Artefakte are exactly:
 
 1. Die Maske des Mitgefühls
 2. Die Krone des Herzbaums
@@ -17,38 +16,109 @@ Airtable currently defines the eight Biom-Artefacts as:
 7. Der Atem des Himmelsdrachen
 8. Der Ätherkern
 
-The fetched Notion master page contains a different older sequence for several positions, including Spiegel der Demut, Kelch des Friedens, Gefäß der Großzügigkeit and Träne der Sehnsucht.
+These eight artefacts unite to form the ninth artefact:
 
-**Rule:** Do not silently merge these lists. The current structured Airtable register is represented in `CANON/ARTEFACTS.md`; the older naming remains recorded here until an explicit canonical decision is made.
+**Die Sphäre der Harmonie**
 
-## C-002 — Regional naming variants
+The Sphäre der Harmonie is not an independent eighth/starting Biom-Artefakt. It is the emergent meta-artefact created by the complete union of all eight Biom-Artefakte.
 
-**Type:** Terminology / continuity conflict  
-**Status:** OPEN
+---
 
-Current structured sources use names such as **Sylvandor**, **Mira Glimmerstrom** and **Altair Frostspitze**, while older YesWriter and/or Notion material contains variants such as **Salvador**, **Mira Glimmerstorm** and **Altair Frostspitz**.
+## C-002 — Canonical names
+**STATUS: RESOLVED / CANON LOCKED**
 
-**Rule:** Preserve source variants in source/archive material. Use the current structured canon only where the current source is explicitly authoritative.
+Use the following spellings as current canon:
 
-## C-003 — Spatial model requires harmonization record
+- Sylvandor
+- Mira Glimmerstorm
+- Altair Frostspitz
 
-**Type:** World-map continuity  
-**Status:** CONTROLLED / VERIFY AGAINST CURRENT MAP
+Older spellings remain historical/source variants and must not replace these canonical forms in new production data.
 
-The current Notion master explicitly combines a ring-shaped political model with a vertical world/energy axis and identifies Mirathia as the center connected to seven outer biomes. The detailed gate/bridge geometry is additionally fixed by the current Mirathia architecture rule.
+---
 
-**Rule:** Map and fortress production must use one explicit current spatial specification. Do not derive a different geography from older prose.
+## C-003 — 80 weapon records
+**STATUS: RESOLVED / CANON LOCKED FROM SOURCE PDFs**
 
-## C-004 — Scanned chronicles not yet integrated
+The complete weapon dataset is derived from the three supplied weapon dossier PDFs:
 
-**Type:** Source completeness  
-**Status:** SOURCE_PENDING_OCR
+- Helden Waffen Dossier — 15 weapons
+- Licht Wächter Waffen Dossier — 40 weapons
+- Schatten Waffen Dossier — 25 weapons
 
-The supplied Helden, Licht and Schatten chronicle PDFs are image-based scans. Their existence is confirmed, but their full textual contents have not yet been machine-read and therefore cannot yet be harmonized into the canonical master.
+Total: **80 weapon records**.
 
-## C-005 — Production definition vs historical lore
+The PDF dossiers are authoritative for the weapon names and five-slot assignment. See `WEAPONS/MASTER-5-WEAPONS.md`.
 
-**Type:** Governance  
-**Status:** CONTROLLED
+---
 
-The fortress design standard explicitly distinguishes production definitions from historical lore. Architectural detail that is not source-supported must remain marked as production definition rather than being back-projected into world history.
+## C-004 — Malakor
+**STATUS: RESOLVED / CANON LOCKED**
+
+Canonical name:
+
+**Malakor, der Schattenlord**
+
+The variant `Malkor` is historical/source material only and must not be used as the current canonical name.
+
+---
+
+## C-005 — Mirathia spatial model
+**STATUS: RESOLVED / CANON LOCKED**
+
+Mirathia is the absolute center of the world.
+
+Seven outer biomes surround the center.
+
+From Mirathia, seven bridge routes lead outward, one to each outer biome.
+
+The Vesperia route is elevated into the sky because Vesperia is the Flying Crystal Realm.
+
+In addition, a distinct **Himmelsbrücke** connects the highest point of Aethyrspitz upward beyond the cloud layer to Vesperia.
+
+The Himmelsbrücke is therefore an additional vertical/high-altitude connection and must not be confused with the ordinary seven Mirathia bridge routes.
+
+---
+
+## C-006 — Chronicle text extraction
+**STATUS: SOURCE EXTRACTION POSSIBLE / IN PROGRESS**
+
+The three supplied Chronicle PDFs are image-based scans. Their page images can be directly rendered and visually read even when machine text parsing returns empty.
+
+Therefore the Chronicles must be processed page-by-page using their rendered page images/OCR rather than being treated as inaccessible text sources.
+
+No Chronicle statement is canonized until extracted and harmonized against the current master.
+
+---
+
+## C-007 — Aurelian Helios age
+**STATUS: RESOLVED / CANON LOCKED**
+
+Aurelian Helios is **36 years old**.
+
+This is his true chronological age and supersedes earlier age variants.
+
+---
+
+## C-008 — Linus symbolism
+**STATUS: RESOLVED / CANON LOCKED**
+
+`Inneres Feuer` is metaphorical language for Linus's inner character strength and is not a literal fire power/signature.
+
+Canonical visual symbolism:
+
+**Aquamarin-Sternkristall**
+
+The Aquamarin-Sternkristall is the canonical symbol associated with Linus.
+
+---
+
+# GOVERNANCE RULE
+
+When a source conflicts with a canon-locked decision above:
+
+1. Preserve the original source unchanged in the archive.
+2. Do not silently rewrite historical source material.
+3. Use the canon-locked decision for new production.
+4. Register any new contradiction as a new conflict record.
+5. Never infer a canon resolution that is not explicitly documented.
