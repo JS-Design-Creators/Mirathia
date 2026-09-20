@@ -1,4 +1,14 @@
-# IMAGE-TO-IMAGE — MIRATHIA / MALAKOR, DER SCHATTENLORD
+# PROMPT-CHAR-012 — Malakor, der Schattenlord
+
+**Asset-ID:** `ASSET-CHAR-012`  
+**Position:** 12  
+**Canon status:** OFFICIAL CANON — Phase 1 / 16 Characters  
+**Reference:** `1000132589.png`  
+**Purpose:** reusable image-to-image character reconstruction prompt
+
+## Prompt
+
+IMAGE-TO-IMAGE — MIRATHIA / MALAKOR, DER SCHATTENLORD
 
 Use the uploaded original artwork as the visual authority and reconstruct the character without changing identity.
 
