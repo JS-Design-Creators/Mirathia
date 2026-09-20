@@ -1,13 +1,13 @@
 # OFFICIAL CANON — Malakor, der Schattenlord
 
 - **Phase:** 1 — Originalgrafik → CANON → Asset-ID → Visual DNA → Prompt-ID
-- **Position:** 01
-- **Faction:** Schattenmächte
+- **Position:** 12
+- **Faction:** Schattenkrieger
 - **Role:** Der Schattenlord
-- **Asset-ID:** `ASSET-CHAR-001`
-- **Prompt-ID:** `PROMPT-CHAR-001`
+- **Asset-ID:** `ASSET-CHAR-012`
+- **Prompt-ID:** `PROMPT-CHAR-012`
 - **Original source:** `1000132589.png`
-- **Canonical original target:** `CHARACTERS/SHADOW-POWERS/ORIGINALS/01_MALAKOR.png`
+- **Canonical original target:** `CHARACTERS/SHADOW-POWERS/ORIGINALS/12_MALAKOR.png`
 - **Dimensions:** 1024 × 1536 px
 - **SHA-256:** `ab65aa06b7970dd31b1209cca60efe6281699911b8c79050034cca72d39c16b1`
 - **Weapon canon:** Leerenklinge; Nacht-Aegis; Umbra-Bogen; Krone der Leere; Schattenfang
