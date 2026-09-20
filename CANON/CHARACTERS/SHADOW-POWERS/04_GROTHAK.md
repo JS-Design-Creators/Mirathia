@@ -1,13 +1,13 @@
 # OFFICIAL CANON — Grothak, der Gierschlund
 
 - **Phase:** 1 — Originalgrafik → CANON → Asset-ID → Visual DNA → Prompt-ID
-- **Position:** 04
-- **Faction:** Schattenmächte
+- **Position:** 15
+- **Faction:** Schattenkrieger
 - **Role:** Der Gierschlund
-- **Asset-ID:** `ASSET-CHAR-004`
-- **Prompt-ID:** `PROMPT-CHAR-004`
+- **Asset-ID:** `ASSET-CHAR-015`
+- **Prompt-ID:** `PROMPT-CHAR-015`
 - **Original source:** `1000132587.png`
-- **Canonical original target:** `CHARACTERS/SHADOW-POWERS/ORIGINALS/04_GROTHAK.png`
+- **Canonical original target:** `CHARACTERS/SHADOW-POWERS/ORIGINALS/15_GROTHAK.png`
 - **Dimensions:** 1281 × 1536 px
 - **SHA-256:** `0b110f4867100f568c71843f36b27c7ea32cf23bfb2452d7f680255568f1b105`
 - **Weapon canon:** Gierspalter; Goldfresser-Schild; Glutwerfer; Schatzbrecher; Besitzklinge
