@@ -1,4 +1,12 @@
-# IMAGE-TO-IMAGE — MIRATHIA / MORWEN, DIE VERSTUMMERIN
+# PROMPT-CHAR-014 — Morwen, die Verstümmeln
+
+**Asset-ID:** `ASSET-CHAR-014`  
+**Position:** 14  
+**Canon status:** OFFICIAL CANON — Phase 1 / 16 Characters  
+**Reference:** `1000132586.png`  
+**Purpose:** reusable image-to-image character reconstruction prompt
+
+## Prompt
 
 Use the uploaded original artwork as the visual authority and reconstruct the character without changing identity.
 
