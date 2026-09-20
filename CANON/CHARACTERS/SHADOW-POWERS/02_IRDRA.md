@@ -1,13 +1,13 @@
-# OFFICIAL CANON — Irdra, die Flüsterin
+# OFFICIAL CANON — Irdra, die Flüstern
 
 - **Phase:** 1 — Originalgrafik → CANON → Asset-ID → Visual DNA → Prompt-ID
-- **Position:** 02
-- **Faction:** Schattenmächte
-- **Role:** Die Flüsterin
-- **Asset-ID:** `ASSET-CHAR-002`
-- **Prompt-ID:** `PROMPT-CHAR-002`
+- **Position:** 13
+- **Faction:** Schattenkrieger
+- **Role:** Die Flüstern
+- **Asset-ID:** `ASSET-CHAR-013`
+- **Prompt-ID:** `PROMPT-CHAR-013`
 - **Original source:** `1000132585.png`
-- **Canonical original target:** `CHARACTERS/SHADOW-POWERS/ORIGINALS/02_IRDRA.png`
+- **Canonical original target:** `CHARACTERS/SHADOW-POWERS/ORIGINALS/13_IRDRA.png`
 - **Dimensions:** 1024 × 1536 px
 - **SHA-256:** `8409b64e583b038c6123ba647bddd5334d3620264dae1d117ebfcdc9698bf884`
 - **Weapon canon:** Flüsterklinge; Spiegelmantel; Nebelbogen; Gedankenschleier; Zweifeldolch
