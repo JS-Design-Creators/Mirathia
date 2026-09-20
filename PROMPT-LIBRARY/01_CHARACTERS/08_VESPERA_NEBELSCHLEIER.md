@@ -1,7 +1,8 @@
-# PROMPT-CHAR-008 — Vespera Nebelschleier
+# PROMPT-CHAR-007 — Vespera Nebelschleier
 
-**Asset-ID:** `ASSET-CHAR-008`  
+**Asset-ID:** `ASSET-CHAR-007`  
 **Canon status:** OFFICIAL CANON — Phase 1 / 8 Light Watchers  
+**Position:** 07  
 **Reference:** `1000132566.png`  
 **Purpose:** reusable image-to-image character reconstruction prompt
 
