@@ -1,4 +1,12 @@
-# IMAGE-TO-IMAGE — MIRATHIA / GROTHAK, DER GIERSCHLUND
+# PROMPT-CHAR-015 — Grothak, der Gierschlund
+
+**Asset-ID:** `ASSET-CHAR-015`  
+**Position:** 15  
+**Canon status:** OFFICIAL CANON — Phase 1 / 16 Characters  
+**Reference:** `1000132587.png`  
+**Purpose:** reusable image-to-image character reconstruction prompt
+
+## Prompt
 
 Use the uploaded original artwork as the visual authority and reconstruct the character without changing identity.
 
