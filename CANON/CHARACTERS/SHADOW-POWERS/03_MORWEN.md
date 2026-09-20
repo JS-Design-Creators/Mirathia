@@ -1,13 +1,13 @@
-# OFFICIAL CANON — Morwen, die Verstummerin
+# OFFICIAL CANON — Morwen, die Verstümmeln
 
 - **Phase:** 1 — Originalgrafik → CANON → Asset-ID → Visual DNA → Prompt-ID
-- **Position:** 03
-- **Faction:** Schattenmächte
-- **Role:** Die Verstummerin
-- **Asset-ID:** `ASSET-CHAR-003`
-- **Prompt-ID:** `PROMPT-CHAR-003`
+- **Position:** 14
+- **Faction:** Schattenkrieger
+- **Role:** Die Verstümmeln
+- **Asset-ID:** `ASSET-CHAR-014`
+- **Prompt-ID:** `PROMPT-CHAR-014`
 - **Original source:** `1000132586.png`
-- **Canonical original target:** `CHARACTERS/SHADOW-POWERS/ORIGINALS/03_MORWEN.png`
+- **Canonical original target:** `CHARACTERS/SHADOW-POWERS/ORIGINALS/14_MORWEN.png`
 - **Dimensions:** 1024 × 1536 px
 - **SHA-256:** `98c9252ee0693cfa0fbf6a0a2a373280ebfb52483684032ed82e3263b56c3eef`
 - **Weapon canon:** Stilleklinge; Trauerschleier; Nebelbogen; Maske der Verstummung; Dämmerdolch
