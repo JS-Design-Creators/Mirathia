@@ -1,4 +1,12 @@
-# IMAGE-TO-IMAGE — MIRATHIA / IRDRA, DIE FLÜSTERIN
+# PROMPT-CHAR-013 — Irdra, die Flüstern
+
+**Asset-ID:** `ASSET-CHAR-013`  
+**Position:** 13  
+**Canon status:** OFFICIAL CANON — Phase 1 / 16 Characters  
+**Reference:** `1000132585.png`  
+**Purpose:** reusable image-to-image character reconstruction prompt
+
+## Prompt
 
 Use the uploaded original artwork as the visual authority and reconstruct the character without changing identity.
 
