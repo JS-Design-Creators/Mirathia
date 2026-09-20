@@ -1,25 +1,16 @@
-# MIR-CHAR-PYRAK-001 — Pyrak Brennstein
+# PROMPT-CHAR-004 — Pyrak Brennstein
 
-## Prompt ID
-`PROMPT-MIR-CHAR-PYRAK-001-V001`
+**Asset-ID:** `ASSET-CHAR-004`  
+**Canon status:** OFFICIAL CANON — Phase 1 / 8 Light Watchers  
+**Reference:** `1000132562.png`  
+**Purpose:** reusable image-to-image character reconstruction prompt
 
-## Canon source
-`IMAGE-ARCHITECTURE/CHARACTERS/01_LIGHT-WATCHERS/SOURCES/04_PYRAK_BRENNSTEIN_ORIGINAL.jpg`
+## Prompt
+
+IMAGE-TO-IMAGE CHARACTER CANON RECONSTRUCTION — MIRATHIA / PYRAK BRENNSTEIN. Use the reference as the definitive visual authority. Preserve the powerful adult male physique, short flame-red hair, rugged bearded face, black-red-gold battle attire, glowing red crystal elements, ember-like runes, heavy crystal-headed war hammer, and the two red-maned lion companions. Preserve the volcanic Mirathia biome with black rock, red crystalline fissures, lava falls, monumental bridges and a dramatic crimson sky. Render in CMSF with cinematic volumetric firelight, controlled ember particles, deep atmospheric perspective, premium fantasy-book detail and heroic but child-readable clarity. Keep the canonical silhouette, palette, armor construction and weapon unchanged. Vertical collector character plate, ultra-detailed, 4K visual target, 300 DPI print intent.
+
+### Negative Prompt
+blue/green palette, modern weapon, sci-fi armor, altered hair color, altered weapon type, excessive gore, horror anatomy, extra limbs, duplicate lions, deformed hands, flat lighting, muddy red-black mass, text artifacts, watermark
 
 ## Visual DNA
-- Adult male warrior with long, intensely red hair and strong angular facial features.
-- Massive red-orange feathered or plume-like mantle/armor silhouette.
-- Dark metallic armor beneath the warm red surface language.
-- Fire-associated visual field with volcanic architecture, ember glow and molten orange-red energy.
-- Powerful, grounded stance; martial and physically robust silhouette.
-- Dominant palette: ember red, scarlet, copper, blackened metal and molten orange.
-- Expression: stern, concentrated and battle-ready.
-
-## Master image prompt
-Reconstruct Pyrak Brennstein exactly from the supplied canon character sheet. Preserve his facial identity, long red hair, powerful masculine proportions, dark armor, enormous red-orange feathered/plume mantle, volcanic environment and controlled fire-energy accents. CMSF — Cinematic Mythic Storybook Fantasy; lightly stylized expressive character design against an ultra-detailed cinematic volcanic environment, volumetric firelight, atmospheric smoke, glowing embers and premium fantasy-book illustration finish. Keep the red/ember palette coherent and physically believable. Preserve the exact silhouette and material hierarchy shown in the reference; do not redesign the costume.
-
-## Negative prompt
-No redesign, no blue/ice palette, no modern armor, no sci-fi, no random wings, no extra limbs, no exaggerated flames covering the face, no cartoon simplification, no altered hair color, no text, no logo, no watermark.
-
-## Status
-`CANON_READY`
+Männlicher erwachsener Feuerkrieger; kräftige, athletische Statur; kurzes, feuerrot leuchtendes Haar; markantes bärtiges Gesicht; dunkelrote, schwarze und goldene Kampfmontur; rote Kristalle und glühende Runen; schwere Keule/Hammer mit rotem Kristallkern; Löwen mit rot glühender Mähne; vulkanisches Reich mit schwarzem Gestein, roten Kristalladern, Lavawasserfällen, Brücken und dramatischem rotem Himmel.
