@@ -1,26 +1,16 @@
-# MIR-CHAR-ARGENTOS-001 — Argentos Silberblick
+# PROMPT-CHAR-003 — Argentos Silberblick
 
-## Prompt ID
-`PROMPT-MIR-CHAR-ARGENTOS-001-V001`
+**Asset-ID:** `ASSET-CHAR-003`  
+**Canon status:** OFFICIAL CANON — Phase 1 / 8 Light Watchers  
+**Reference:** `1000132561.png`  
+**Purpose:** reusable image-to-image character reconstruction prompt
 
-## Canon source
-Primary visual source: `IMAGE-ARCHITECTURE/CHARACTERS/01_LIGHT-WATCHERS/SOURCES/00_LIGHT-WATCHERS_GROUP.jpg` (group composition; individual original not separately supplied in Step 1).
+## Prompt
+
+IMAGE-TO-IMAGE CHARACTER CANON RECONSTRUCTION — MIRATHIA / ARGENTOS SILBERBLICK. Preserve the uploaded reference exactly as the visual identity anchor: adult silver-haired elven male, pointed ears, calm observant expression, white/silver ceremonial armor and robes with deep-blue fabric, moon-and-star motifs, silver-blue crystalline staff and luminous orb, and the white snowy owl companion. Preserve the moonlit Mirathia environment with waterfalls, crystalline towers, bridges, cool violet-blue atmosphere and flowing luminous energy ribbons. Apply CMSF: refined stylized character clarity, highly detailed cinematic environment, volumetric moonlight, elegant arcane illumination, atmospheric depth, luxurious illustrated-encyclopedia finish. Canonical proportions, costume silhouette, palette and props remain locked. Vertical collector character plate, ultra-detailed, 4K visual target, 300 DPI print intent.
+
+### Negative Prompt
+redesigned face, dark/black armor, warm fire palette, modern elements, sci-fi weapon, altered staff, missing owl, extra limbs, duplicate props, deformed hands, flat lighting, muddy textures, text artifacts, watermark
 
 ## Visual DNA
-- Male Light-Watcher positioned on the right side of the group composition.
-- Long silver-white hair and pale, cool facial presentation.
-- Silver/white clothing and armor language with crystalline winter detailing.
-- Strong association with the icy-blue/white visual field of the upper-right environment.
-- A pale white wolf-like companion is visibly associated with the character in the group composition.
-- Dominant palette: silver, white, ice-blue, crystalline highlights.
-- Expression: restrained, calm, watchful.
-- Silhouette: tall, elegant, cool-toned and vertically composed.
-
-## Master image prompt
-Reconstruct Argentos Silberblick strictly from the supplied Mirathia canon group reference. Preserve the established long silver-white hair, pale features, silver-white costume/armor language, crystalline winter detailing, cool restrained expression and the visible pale wolf companion. CMSF — Cinematic Mythic Storybook Fantasy with expressive lightly stylized character forms against an ultra-detailed cinematic fantasy environment. Use silver, white and ice-blue as the dominant visual DNA, with crystalline light and controlled atmospheric frost. Maintain the character's established proportions, face, hair, costume silhouette and companion relationship. Increase only cinematic clarity, material fidelity, volumetric light and atmospheric depth.
-
-## Negative prompt
-No redesign, no dark armor, no fire palette, no modern clothing, no cyberpunk, no random weapons, no extra limbs, no changed face, no oversized animal replacement, no neon blue, no cartoon simplification, no text, no logo, no watermark.
-
-## Status
-`CANON_REFERENCE_READY` — individual original image still pending; current source is the official supplied group reference.
+Männlicher erwachsener elfisch wirkender Lichtwächter; silberweißes, langes Haar; spitze Ohren; ruhiges, aufmerksames Gesicht; weiße/silberne und tiefblaue Gewänder und Rüstung; Mond- und Sternornamente; silberblauer Kristallfokus; hoher Stab mit kristalliner Lichtkugel; Schneeeule als Begleiter; mondbeschienene, violett-blaue Mirathia-Landschaft mit Wasserfällen und kristalliner Architektur; feine Lichtbänder als Magie.
