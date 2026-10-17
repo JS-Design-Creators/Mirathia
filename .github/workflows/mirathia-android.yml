@@ -1,5 +1,10 @@
 name: MIRATHIA Android APK
 on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'MIRATHIA-ANDROID/**'
+      - '.github/workflows/mirathia-android.yml'
   push:
     branches: [main, feature/mirathia-android-codex]
     paths:
