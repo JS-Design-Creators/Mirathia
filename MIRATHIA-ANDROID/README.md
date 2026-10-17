@@ -15,3 +15,6 @@ Android does not guarantee that an app opens automatically just because a USB dr
 - Canon Guard rules and audit are not complete.
 - Build and physical-device USB persistence tests must still be run.
 - New content must remain DRAFT until an explicit canon approval process exists.
+
+## Current implementation note (0.2.0)
+The app creates `MIRATHIA_DATA/mirathia-codex.json` with the eight biome starter records when that file does not exist. New starter records are marked `DRAFT`. If the file already exists, the app does not overwrite it. Full loading/editing, character and artefact data, Canon Guard validation, a successful APK build, and physical-device USB tests are still pending.
