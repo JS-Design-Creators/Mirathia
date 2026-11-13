@@ -37,7 +37,7 @@ For the Mirathia fortress system, the **King Lion Aureon** is the Mirathia Urbes
 - Resonance: Feuer / Magma / Gestein
 - Ability: **HERZ DER MAGMA** — Ignarok combines fire, magma and stone into stable protective energy.
 - Function: fire / earth resonance.
-- Artefact: **Das Lavagestein-Herz**
+- Artefact: **Das Gefäß der Großzügigkeit**
 
 ## 05 — GLIMMERFURT
 - Urbestie: **Mirravi**
@@ -79,7 +79,7 @@ For the Mirathia fortress system, the **King Lion Aureon** is the Mirathia Urbes
 | 01 | Mirathia | Aureon | Königslöwe | Licht / Nexus / Harmonie | Maske des Mitgefühls |
 | 02 | Sylvandor | Eldarion | Herzbaumreh | Leben / Regeneration | Krone des Herzbaums |
 | 03 | Lunafall | Selenor | Mondhirsch | Mondlicht / Hoffnung | Träne der Sehnsucht |
-| 04 | Pyrakh | Ignarok | Lava-Gestein-Löwe | Feuer / Magma / Gestein | Lavagestein-Herz |
+| 04 | Pyrakh | Ignarok | Lava-Gestein-Löwe | Feuer / Magma / Gestein | Gefäß der Großzügigkeit |
 | 05 | Glimmerfurt | Mirravi | Prismafuchs | Licht / Spiegel / Prisma | Schleier des Wanderers |
 | 06 | Aquarelis | Thalassor | Tiefenwyrm | Wasser / Tiefe / Strömung | Tiefenruf des Triton |
 | 07 | Aethyrspitz | Aerion | Himmelsgreif | Wind / Eis / Höhe / Äther | Atem des Himmelsdrachen |
@@ -94,6 +94,7 @@ The **Sphäre der Harmonie** is not an independent ninth starting artefact. It i
 - Gate architecture: Aureon + the local Biome Urbestie, both represented as monumental petrified guardian figures.
 - Elyssoia must remain a Nebelschleierkatze; do not replace her with a fox.
 - Historical source divergence: the earlier GitHub version listed “Ätherkern” for Vesperia. By binding decision dated 2026-11-13, ART-008 is “Kelch des Friedens”; “Ätherkern” is a historical, non-authoritative divergent entry, not an alias or a second artefact.
+- ART-004 binding decision dated 2026-11-13 (Variante A): the artefact is **Das Gefäß der Großzügigkeit**. The former label **Lavagestein-Herz** is retained only as a historical, archived WELT-Bau/Biome source designation, not as an alias, renaming, or additional artefact. The current Pyrakh production hierarchy remains authoritative; the conflicting older Pyrak Character Master Bible is documented as an unresolved source discrepancy and is not modified by this synchronization.
 - ART-003 binding decision dated 2026-11-13 (Variante A): the artefact is **Träne der Sehnsucht**. The former GitHub label **Sichelmond-Samen** is retained only as a historical divergent source designation, not as an ART-003 alias, renaming, or additional Biome base artefact. Separate Lunafall companion-object source records named “Sichelmond-Samen” remain outside ART-003 and are not changed by this synchronization.
 
 - Do not invent additional Urbestien.
