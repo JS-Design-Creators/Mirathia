@@ -61,7 +61,7 @@ For the Mirathia fortress system, the **King Lion Aureon** is the Mirathia Urbes
 - Resonance: Wind / Eis / Höhe / Äther
 - Ability: **HIMMELSRESONANZ** — Aerion combines wind, cold, crystal and ether into a stable high-altitude current.
 - Function: wind / altitude resonance.
-- Artefact: **Der Atem des Himmelsdrachen**
+- Artefact: **Spiegel der Demut**
 
 ## 08 — VESPERIA
 - Urbestie: **Elyssoia**
@@ -82,7 +82,7 @@ For the Mirathia fortress system, the **King Lion Aureon** is the Mirathia Urbes
 | 04 | Pyrakh | Ignarok | Lava-Gestein-Löwe | Feuer / Magma / Gestein | Gefäß der Großzügigkeit |
 | 05 | Glimmerfurt | Mirravi | Prismafuchs | Licht / Spiegel / Prisma | Schleier des Wanderers |
 | 06 | Aquarelis | Thalassor | Tiefenwyrm | Wasser / Tiefe / Strömung | Tiefenruf des Triton |
-| 07 | Aethyrspitz | Aerion | Himmelsgreif | Wind / Eis / Höhe / Äther | Atem des Himmelsdrachen |
+| 07 | Aethyrspitz | Aerion | Himmelsgreif | Wind / Eis / Höhe / Äther | Spiegel der Demut |
 | 08 | Vesperia | Elyssoia | Nebelschleierkatze | Äther / Nebel / Übergang | Kelch des Friedens |
 
 ## Meta-Artefact
@@ -94,6 +94,7 @@ The **Sphäre der Harmonie** is not an independent ninth starting artefact. It i
 - Gate architecture: Aureon + the local Biome Urbestie, both represented as monumental petrified guardian figures.
 - Elyssoia must remain a Nebelschleierkatze; do not replace her with a fox.
 - Historical source divergence: the earlier GitHub version listed “Ätherkern” for Vesperia. By binding decision dated 2026-11-13, ART-008 is “Kelch des Friedens”; “Ätherkern” is a historical, non-authoritative divergent entry, not an alias or a second artefact.
+- ART-007 binding decision dated 2026-11-13: the artefact is **Spiegel der Demut** (stable ID ART-007). The former GitHub label **Atem des Himmelsdrachen** is a divergent historical source designation, not an alias, renaming, or additional Biome base artefact. The Aethyrspitz Notion artefact dossier and production definition identify the Spiegel der Demut; the older canonical record explicitly states that Atem des Himmelsdrachen is not active. The user confirmed Spiegel der Demut as the binding name.
 - ART-004 binding decision dated 2026-11-13 (Variante A): the artefact is **Das Gefäß der Großzügigkeit**. The former label **Lavagestein-Herz** is retained only as a historical, archived WELT-Bau/Biome source designation, not as an alias, renaming, or additional artefact. The current Pyrakh production hierarchy remains authoritative; the conflicting older Pyrak Character Master Bible is documented as an unresolved source discrepancy and is not modified by this synchronization.
 - ART-003 binding decision dated 2026-11-13 (Variante A): the artefact is **Träne der Sehnsucht**. The former GitHub label **Sichelmond-Samen** is retained only as a historical divergent source designation, not as an ART-003 alias, renaming, or additional Biome base artefact. Separate Lunafall companion-object source records named “Sichelmond-Samen” remain outside ART-003 and are not changed by this synchronization.
 
