@@ -64,11 +64,11 @@ For the Mirathia fortress system, the **King Lion Aureon** is the Mirathia Urbes
 - Artefact: **Der Atem des Himmelsdrachen**
 
 ## 08 — VESPERIA
-- Urbestie: **Elyssia**
+- Urbestie: **Elyssoia**
 - Species: **Nebelschleierkatze**
 - Resonance: Äther / Nebel / Übergang
-- Ability: **SCHLEIERRESONANZ** — Elyssia connects ether and mist into a living veil capable of hiding and preserving.
-- Critical identity lock: **Elyssia is a CAT, explicitly not a fox.** The ether fox remains a separate Vesperia signature creature.
+- Ability: **SCHLEIERRESONANZ** — Elyssoia connects ether and mist into a living veil capable of hiding and preserving.
+- Critical identity lock: **Elyssoia is a CAT, explicitly not a fox.** The ether fox remains a separate Vesperia signature creature.
 - Function: ether / mist / transition resonance.
 - Artefact: **Der Ätherkern**
 
@@ -83,7 +83,7 @@ For the Mirathia fortress system, the **King Lion Aureon** is the Mirathia Urbes
 | 05 | Glimmerfurt | Mirravi | Prismafuchs | Licht / Spiegel / Prisma | Schleier des Wanderers |
 | 06 | Aquarelis | Thalassor | Tiefenwyrm | Wasser / Tiefe / Strömung | Tiefenruf des Triton |
 | 07 | Aethyrspitz | Aerion | Himmelsgreif | Wind / Eis / Höhe / Äther | Atem des Himmelsdrachen |
-| 08 | Vesperia | Elyssia | Nebelschleierkatze | Äther / Nebel / Übergang | Ätherkern |
+| 08 | Vesperia | Elyssoia | Nebelschleierkatze | Äther / Nebel / Übergang | Ätherkern |
 
 ## Meta-Artefact
 The **Sphäre der Harmonie** is not an independent ninth starting artefact. It is created only through the complete union of the eight Biome artefacts / resonance components.
@@ -92,5 +92,5 @@ The **Sphäre der Harmonie** is not an independent ninth starting artefact. It i
 - 8 Biomes = 8 Urbestien.
 - Aureon is the Mirathia Urbestie and the permanent central reference.
 - Gate architecture: Aureon + the local Biome Urbestie, both represented as monumental petrified guardian figures.
-- Elyssia must remain a Nebelschleierkatze; do not replace her with a fox.
+- Elyssoia must remain a Nebelschleierkatze; do not replace her with a fox.
 - Do not invent additional Urbestien.
