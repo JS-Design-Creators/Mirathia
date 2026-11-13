@@ -9,7 +9,7 @@
 | Glimmerfurt | Mirravi — Prismafuchs | Biom-Urbestie |
 | Aquarelis | Thalassor — Tiefenwyrm | Biom-Urbestie |
 | Aethyrspitz | Aerion — Himmelsgreif | Biom-Urbestie |
-| Vesperia | Elyssia — Nebelschleierkatze | Biom-Urbestie |
+| Vesperia | Elyssoia — Nebelschleierkatze | Biom-Urbestie |
 
 ## Torregel
 
