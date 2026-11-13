@@ -29,7 +29,7 @@ For the Mirathia fortress system, the **King Lion Aureon** is the Mirathia Urbes
 - Resonance: Mondlicht / Hoffnung
 - Ability: **MONDRESONANZ** — Selenor concentrates Lunafall's moon/star light and makes hidden paths or visions visible.
 - Function: moon / hope resonance.
-- Artefact: **Der Sichelmond-Samen**
+- Artefact: **Die Träne der Sehnsucht**
 
 ## 04 — PYRAKH
 - Urbestie: **Ignarok**
@@ -78,7 +78,7 @@ For the Mirathia fortress system, the **King Lion Aureon** is the Mirathia Urbes
 |---|---|---|---|---|---|
 | 01 | Mirathia | Aureon | Königslöwe | Licht / Nexus / Harmonie | Maske des Mitgefühls |
 | 02 | Sylvandor | Eldarion | Herzbaumreh | Leben / Regeneration | Krone des Herzbaums |
-| 03 | Lunafall | Selenor | Mondhirsch | Mondlicht / Hoffnung | Sichelmond-Samen |
+| 03 | Lunafall | Selenor | Mondhirsch | Mondlicht / Hoffnung | Träne der Sehnsucht |
 | 04 | Pyrakh | Ignarok | Lava-Gestein-Löwe | Feuer / Magma / Gestein | Lavagestein-Herz |
 | 05 | Glimmerfurt | Mirravi | Prismafuchs | Licht / Spiegel / Prisma | Schleier des Wanderers |
 | 06 | Aquarelis | Thalassor | Tiefenwyrm | Wasser / Tiefe / Strömung | Tiefenruf des Triton |
@@ -94,4 +94,6 @@ The **Sphäre der Harmonie** is not an independent ninth starting artefact. It i
 - Gate architecture: Aureon + the local Biome Urbestie, both represented as monumental petrified guardian figures.
 - Elyssoia must remain a Nebelschleierkatze; do not replace her with a fox.
 - Historical source divergence: the earlier GitHub version listed “Ätherkern” for Vesperia. By binding decision dated 2026-11-13, ART-008 is “Kelch des Friedens”; “Ätherkern” is a historical, non-authoritative divergent entry, not an alias or a second artefact.
+- ART-003 binding decision dated 2026-11-13 (Variante A): the artefact is **Träne der Sehnsucht**. The former GitHub label **Sichelmond-Samen** is retained only as a historical divergent source designation, not as an ART-003 alias, renaming, or additional Biome base artefact. Separate Lunafall companion-object source records named “Sichelmond-Samen” remain outside ART-003 and are not changed by this synchronization.
+
 - Do not invent additional Urbestien.
